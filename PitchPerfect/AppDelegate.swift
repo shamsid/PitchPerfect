@@ -3,8 +3,7 @@
 //  PitchPerfect
 //
 //  Created by shamsher ahmed on 15/05/18.
-//  Copyright © 2018 Udacity. All rights reserved.
-//
+
 
 import UIKit
 
